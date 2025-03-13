@@ -60,3 +60,6 @@ void loop() {
 
     delay(500);
 }
+// llgue yo y voy a empeza a acomodar el codgio
+//ksjdfwb
+//wkjeb
