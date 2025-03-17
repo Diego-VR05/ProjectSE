@@ -1,3 +1,6 @@
+
+// 13-03.25 comienzoa hacer cambios 
+
 class Motor {
 public:
     Motor(int in1, int in2, int en, int channel) : IN1(in1), IN2(in2), EN(en), channel(channel) {
